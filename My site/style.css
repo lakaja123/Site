@@ -1,0 +1,41 @@
+body {
+    background-color: f43bf7;
+    color: #fff;
+    font-family: Pompadur, 'Comic Sans MS';
+}
+h2 {
+    text-align: center;
+}
+.hrt {
+    background-color: brown;
+}
+.td {
+
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img {
+    height: 200px;
+    width: 100%;
+}
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h5 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+        text-decoration: underline; 
+}
+.hg {
+    background-color: #4ae8cb99;
+}
+.gh {
+    background-color: #edd55f99;
+}
